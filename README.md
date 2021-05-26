@@ -1,6 +1,6 @@
 # Kinesis
 
-This repo contain sample applications using Kinesis Data Stream, Kinesis Data Firehose, Kinesis Data Analytics.
+This repo contains sample applications using Kinesis Data Stream, Kinesis Data Firehose, Kinesis Data Analytics.
 
 ## Run Kinesis Data Stream Application
 
