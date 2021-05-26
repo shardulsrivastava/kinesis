@@ -32,7 +32,7 @@ In Progress..
 
 Once you create a kinesis data stream and produce the data for the stream using KPL library, you can set up a kinesis firhose application to transform this data and send it data to S3.
 
-### Setup Firhose Data Transformer
+### Setup Firehose Data Transformer
 
 Kinesis Data Firehose can invoke a Lambda function to transform incoming source data and deliver the transformed data to destinations.
 
@@ -90,3 +90,13 @@ Example:
 
 ## Kinesis Data Analytics
 
+
+
+
+## Appendix
+
+1. Kinesis Client Library -  https://docs.aws.amazon.com/streams/latest/dev/shared-throughput-kcl-consumers.html
+
+2. Kinesis Firehose Transformation -  https://docs.aws.amazon.com/firehose/latest/dev/data-transformation.html
+
+3. 
