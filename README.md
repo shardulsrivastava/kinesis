@@ -92,11 +92,14 @@ Example:
 
 
 
-
 ## Appendix
+
+### Kinesis Docs Reference
 
 1. Kinesis Client Library -  https://docs.aws.amazon.com/streams/latest/dev/shared-throughput-kcl-consumers.html
 
 2. Kinesis Firehose Transformation -  https://docs.aws.amazon.com/firehose/latest/dev/data-transformation.html
 
-3. 
+### ReInvent Videos
+
+1. Kinesis Best Practices : https://www.youtube.com/watch?v=jKPlGznbfZ0
